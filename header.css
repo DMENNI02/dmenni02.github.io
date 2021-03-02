@@ -215,7 +215,7 @@ color: #f06060;
   .messagealert {
     color: #f06060; 
     padding-top: 100px;
-    /* text-align: center; */
+    text-align: center;
     font-family: 'Bebas Neue', Arial Black, Impact;
     font-size: 13pt;
     line-height: 1;
